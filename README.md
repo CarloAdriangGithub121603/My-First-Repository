@@ -1,7 +1,7 @@
 # app-dev
 My first repository   
 
-# **How to train your dragon** #
+# **SUITS** #
 * Created by Aaron Korshl* 
 > "Suits" is a popular TV series that aired from 2011 to 2019. The show is a legal drama set at a fictional law firm in New York City.     
 
@@ -16,4 +16,6 @@ The role of Harvey Specter was originally written for a much older actor. Howeve
 ---
 You can view more information about the series using the link below   
 
-[How to train your dragon][(https://www.rottentomatoes.com/tv/suits)]
+[Suits][(https://www.rottentomatoes.com/tv/suits)]
+
+![]https://github.com/CarloAdriangGithub121603/My-First-Repository/issues/2#issue-1728729883
