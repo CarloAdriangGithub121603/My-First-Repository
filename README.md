@@ -18,4 +18,4 @@ You can view more information about the series using the link below
 
 [Suits][(https://www.rottentomatoes.com/tv/suits)]
 
-![](https://github.com/CarloAdriangGithub121603/My-First-Repository/issues/2#issue-1728729883)
+![]([https://github.com/CarloAdriangGithub121603/My-First-Repository/issues/2#issue-1728729883](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxa5V6-KNSEUkmA3QJHldj8BM5J3dVHz6k16LmKITvgOeI2unk)
